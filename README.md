@@ -1,11 +1,13 @@
-## printf("Hello World, eu sou o Eduardo");
-
+## printf("Hello World, I am Eduardo");
+I'm a 21yo brazilian computer science major at PUC Minas, currently on the fifth semester of my degree.
 <div>
   <a href="https://github.com/dudumartino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudumartino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudumartino&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
+
+## Knowlegde
 
 <div style="display: inline_block"><br>
   <img align="center" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
@@ -17,6 +19,14 @@
   <img align="center" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>                             
           
+## Learning and improving
+
+<div style="display: inline_block"><br>
+  <img align="center" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" height="45em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+</div>     
+
 ##
 
 <div>
