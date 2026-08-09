@@ -34,10 +34,10 @@
 ### 📬 Conecte-se Comigo
 
 <div align="left">
-  <a href="https://linkedin.com/in/SEU-USER-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/eduardo-martino" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
   </a>
-  <a href="https://instagram.com/SEU-USER-INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/du.martino" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/>
   </a>
 </div>
