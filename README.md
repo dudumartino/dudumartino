@@ -7,7 +7,7 @@
 
 ### 💻 Sobre Mim
 
-- 🚀 Atualmente atuo como **Fullstack Developer** na **DevSider**.
+- 🚀 Atualmente atuo como **Fullstack Developer**.
 - 🎓 Cursando **Engenharia de Software** na PUC Minas.
 - 🌍 Baseado em **Belo Horizonte, MG - Brasil**.
 - 💼 Portfólio: [eduardomf.com](https://eduardomf.com)
@@ -18,15 +18,6 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,py,java,c,cpp,cs,git,docker,html,css&perline=7" />
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dudumartino&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudumartino&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
